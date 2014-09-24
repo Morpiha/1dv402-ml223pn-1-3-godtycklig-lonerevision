@@ -1,0 +1,6 @@
+C:\Users\ml223pn\Documents\github\1dv402-ml223pn-1-3-godtycklig-lonerevision\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ml223pn\Documents\github\1dv402-ml223pn-1-3-godtycklig-lonerevision\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ml223pn\Documents\github\1dv402-ml223pn-1-3-godtycklig-lonerevision\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ml223pn\Documents\github\1dv402-ml223pn-1-3-godtycklig-lonerevision\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ml223pn\Documents\github\1dv402-ml223pn-1-3-godtycklig-lonerevision\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ml223pn\Documents\github\1dv402-ml223pn-1-3-godtycklig-lonerevision\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
